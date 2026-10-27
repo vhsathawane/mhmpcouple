@@ -186,11 +186,11 @@ const POSTS = [
     `
   },
   {
-    id: "mountain-sunrise",
-    title: "Chasing a sunrise in the mountains",
-    location: "Manali, India",
-    cover: "https://picsum.photos/id/1036/800/1000",
-    date: "2026-08-02",
+    id: "vietnam",
+    title: "• Vietnam: A Country of Endless Wonders",
+    location: "Vietnam",
+    cover: "images/vietnam/1.png",
+    date: "2023-02-15",
     updated: "2026-08-02",
     gallery: [
       "https://picsum.photos/id/1036/1400/1000",
