@@ -23,6 +23,29 @@
 
 const POSTS = [
   {
+    id: "hyd-cafe-hopping",
+    title: "11 best cafes in Hyderabad",
+    location: "Hyderabad, Telangana, India",
+    cover: "/images/cafes/1.png",
+    date: "2026-09-14",
+    updated: "2026-09-20",
+    gallery: [
+      "https://picsum.photos/id/1011/1400/1000",
+      "https://picsum.photos/id/1015/1400/1000",
+      "https://picsum.photos/id/1016/1400/1000",
+      "https://picsum.photos/id/1018/1400/1000",
+      "https://picsum.photos/id/1019/1400/1000"
+    ],
+    content: `
+      <p>We finally took the trip we had been talking about for months. Two days, no alarms, and as much seafood as we could eat.</p>
+      <h2>Day one</h2>
+      <p>We landed early and went straight to the beach. The water was warm and the shacks were just opening for the season.</p>
+      <h2>Day two</h2>
+      <p>A sunset boat ride, a little shopping at the night market, and a long walk back along the sand.</p>
+      <p><strong>Tip:</strong> go in late September before the crowds arrive.</p>
+    `
+  },
+  {
     id: "goa-beach-weekend",
     title: "A lazy weekend on the Goa beaches",
     location: "Goa, India",
