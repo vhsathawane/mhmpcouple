@@ -164,7 +164,7 @@ const POSTS = [
   },
   {
     id: "Wayanad",
-    title: "Wayanad:'land of paddy fields'",
+    title: "Wayanad:land of paddy fields",
     location: "Wayanad,Keral, India",
     cover: "images/wayanad/1.png",
     date: "2024-09-12",
@@ -221,7 +221,7 @@ const POSTS = [
   },
   {
     id: "Alibag",
-    title: "• Alibaug in a Weekend: Sun-Kissed and Carefree",
+    title: "Alibaug in a Weekend: Sun-Kissed and Carefree",
     location: "Alibag, Maharashtra, India",
     cover: "images/alibag/1.png",
     date: "2026-05-30",
