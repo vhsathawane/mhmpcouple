@@ -216,8 +216,9 @@ a { color: var(--accent); }
 }
 .gallery-main img {
   width: 100%;
-  aspect-ratio: 3 / 2;
-  object-fit: cover;
+  height: min(75vh, 720px);
+  object-fit: contain;
+  background: var(--bg);
 }
 .gallery-count {
   position: absolute;
