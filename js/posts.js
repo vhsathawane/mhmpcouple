@@ -209,7 +209,7 @@ const POSTS = [
     title: "Dubai: The City of Gold and Endless Dreams",
     location: "Dubai, UAE"
     cover: "images/dubai/1.png",
-    date: "2026-06-22",
+    date: "2026-01-22",
     updated: "2026-06-22",
     gallery: [
       "images/dubai/1.png",
