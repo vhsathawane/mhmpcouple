@@ -163,12 +163,12 @@ const POSTS = [
     `
   },
   {
-    id: "goa-beach-weekend",
-    title: "A lazy weekend on the Goa beaches",
-    location: "Goa, India",
-    cover: "https://picsum.photos/id/1011/800/1000",
-    date: "2026-09-14",
-    updated: "2026-09-20",
+    id: "Wayanad",
+    title: "Wayanad:'land of paddy fields'",
+    location: "Wayanad,Keral, India",
+    cover: "images/wayanad/1.png",
+    date: "2024-09-12",
+    updated: "2026-09-26",
     gallery: [
       "https://picsum.photos/id/1011/1400/1000",
       "https://picsum.photos/id/1015/1400/1000",
