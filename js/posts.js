@@ -193,7 +193,7 @@ const POSTS = [
     date: "2023-02-15",
     updated: "2026-08-02",
     gallery: [
-      "https://picsum.photos/id/1036/1400/1000",
+      "images/vietnam/1.png",
       "https://picsum.photos/id/1039/1400/1000",
       "https://picsum.photos/id/1043/1400/1000",
       "https://picsum.photos/id/1044/1400/1000"
