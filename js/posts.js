@@ -187,7 +187,7 @@ const POSTS = [
   },
   {
     id: "vietnam",
-    title: "• Vietnam: A Country of Endless Wonders",
+    title: "Vietnam: A Country of Endless Wonders",
     location: "Vietnam",
     cover: "images/vietnam/1.png",
     date: "2023-02-15",
@@ -205,14 +205,14 @@ const POSTS = [
   },
 
   {
-    id: "monsoon-drive",
-    title: "Our first monsoon road trip",
-    location: "Lonavala, India",
-    cover: "https://picsum.photos/id/1067/800/1000",
+    id: "dubai",
+    title: "Dubai: The City of Gold and Endless Dreams",
+    location: "Dubai, UAE"
+    cover: "images/dubai/1.png",
     date: "2026-06-22",
     updated: "2026-06-22",
     gallery: [
-      "https://picsum.photos/id/1067/1400/1000",
+      "images/dubai/1.png",
       "https://picsum.photos/id/1068/1400/1000",
       "https://picsum.photos/id/1069/1400/1000"
     ],
