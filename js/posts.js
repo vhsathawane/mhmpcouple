@@ -220,14 +220,14 @@ const POSTS = [
     `
   },
   {
-    id: "anniversary-dinner",
-    title: "Celebrating our anniversary",
-    location: "Mumbai, India",
-    cover: "https://picsum.photos/id/1025/800/1000",
+    id: "Alibag",
+    title: "• Alibaug in a Weekend: Sun-Kissed and Carefree",
+    location: "Alibag, Maharashtra, India",
+    cover: "images/alibag/1.png",
     date: "2026-05-30",
     updated: "2026-06-01",
     gallery: [
-      "https://picsum.photos/id/1025/1400/1000",
+      "images/alibag/1.png",
       "https://picsum.photos/id/1027/1400/1000",
       "https://picsum.photos/id/1029/1400/1000"
     ],
