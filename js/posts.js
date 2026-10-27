@@ -45,8 +45,7 @@ const POSTS = [
       "images/cafes/13.png"
     ],
     content: `
-     ```html
-<section class="couple-connect-blog">
+
 
   <h1>☕ Couple Connect: Best Cafés to Explore in Hyderabad ❤️</h1>
 
@@ -161,8 +160,6 @@ const POSTS = [
     #CoupleCommunity #MeetNewPeople #IndiaTravel
   </p>
 
-</section>
-```
     `
   },
   {
