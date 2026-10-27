@@ -204,22 +204,22 @@ const POSTS = [
     `
   },
 
-  {
-    id: "dubai",
-    title: "Dubai: The City of Gold and Endless Dreams",
-    location: "Dubai, UAE",
-    cover: "images/dubai/1.png",
-    date: "2026-01-22",
-    updated: "2026-06-22",
-    gallery: [
-      "images/dubai/1.png",
-      "https://picsum.photos/id/1068/1400/1000",
-      "https://picsum.photos/id/1069/1400/1000"
-    ],
-    content: `
-      <p>Waterfalls on every turn, hot pakoras at every stop, and a playlist we had been building for weeks.</p>
-    `
-  },
+  // {
+  //   id: "dubai",
+  //   title: "Dubai: The City of Gold and Endless Dreams",
+  //   location: "Dubai, UAE",
+  //   cover: "images/dubai/1.png",
+  //   date: "2026-01-22",
+  //   updated: "2026-06-22",
+  //   gallery: [
+  //     "images/dubai/1.png",
+  //     "https://picsum.photos/id/1068/1400/1000",
+  //     "https://picsum.photos/id/1069/1400/1000"
+  //   ],
+  //   content: `
+  //     <p>Waterfalls on every turn, hot pakoras at every stop, and a playlist we had been building for weeks.</p>
+  //   `
+  // },
   {
     id: "anniversary-dinner",
     title: "Celebrating our anniversary",
