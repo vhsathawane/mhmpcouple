@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>mhmp_couple vlogs</title>
+  <meta name="description" content="Photo stories from our travels and everyday life together.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <a class="logo" href="index.html">mhmp<span>_couple vlogs</span></a>
+    <nav>
+      <a href="index.html" aria-current="page">Stories</a>
+      <a href="#about">About us</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Two of us, one camera, and a lot of places to see.</h1>
+      <p>Photo stories from our trips, weekends and little everyday moments.</p>
+    </section>
+
+    <section class="grid-section" aria-label="All stories">
+      <div class="photo-grid" id="photo-grid"></div>
+    </section>
+
+    <section class="about" id="about">
+      <h2>About us</h2>
+      <p>We’re M and H, a couple who love travelling, food and taking far too many photos. This is where we keep them all, along with the stories behind them.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> mhmp_couple vlogs</p>
+  </footer>
+
+  <script src="js/posts.js"></script>
+  <script src="js/common.js"></script>
+  <script>
+    const grid = document.getElementById("photo-grid");
+    grid.innerHTML = sortedPosts().map(post => `
+      <a class="photo-card" href="post.html?id=${encodeURIComponent(post.id)}">
+        <div class="photo-frame">
+          <img src="${post.cover}" alt="${post.title}" loading="lazy">
+        </div>
+        <div class="photo-info">
+          <h2>${post.title}</h2>
+          <p class="meta">
+            ${post.location ? `<span>${post.location}</span>` : ""}
+            <time datetime="${post.date}">${formatDate(post.date)}</time>
+          </p>
+        </div>
+      </a>
+    `).join("");
+  </script>
+</body>
+</html>
