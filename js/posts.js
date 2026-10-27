@@ -195,8 +195,8 @@ const POSTS = [
     gallery: [
       "images/vietnam/1.png",
       "images/vietnam/2.JPG",
-      "https://picsum.photos/id/1043/1400/1000",
-      "https://picsum.photos/id/1044/1400/1000"
+      "images/vietnam/3.png",
+      "images/vietnam/4.png",
     ],
     content: `
       <p>We woke up at 4 a.m., wrapped ourselves in every jacket we had, and hiked up to the viewpoint.</p>
