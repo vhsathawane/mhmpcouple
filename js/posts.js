@@ -251,5 +251,54 @@ const POSTS = [
     content: `
       <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
     `
+  },
+
+  {
+    id: "monsoon-drive",
+    title: "Our first monsoon road trip",
+    location: "Lonavala, India",
+    cover: "https://picsum.photos/id/1067/800/1000",
+    date: "2026-06-22",
+    updated: "2026-06-22",
+    gallery: [
+      "https://picsum.photos/id/1067/1400/1000",
+      "https://picsum.photos/id/1068/1400/1000",
+      "https://picsum.photos/id/1069/1400/1000"
+    ],
+    content: `
+      <p>Waterfalls on every turn, hot pakoras at every stop, and a playlist we had been building for weeks.</p>
+    `
+  },
+  {
+    id: "anniversary-dinner",
+    title: "Celebrating our anniversary",
+    location: "Mumbai, India",
+    cover: "https://picsum.photos/id/1025/800/1000",
+    date: "2026-05-30",
+    updated: "2026-06-01",
+    gallery: [
+      "https://picsum.photos/id/1025/1400/1000",
+      "https://picsum.photos/id/1027/1400/1000",
+      "https://picsum.photos/id/1029/1400/1000"
+    ],
+    content: `
+      <p>A quiet dinner by the sea to celebrate another year together.</p>
+    `
+  },
+  {
+    id: "old-town-walk",
+    title: "A slow walk through the old town",
+    location: "Jaipur, India",
+    cover: "https://picsum.photos/id/1031/800/1000",
+    date: "2026-04-12",
+    updated: "2026-04-12",
+    gallery: [
+      "https://picsum.photos/id/1031/1400/1000",
+      "https://picsum.photos/id/1033/1400/1000",
+      "https://picsum.photos/id/1040/1400/1000"
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
   }
 ];
