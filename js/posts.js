@@ -24,7 +24,7 @@
 const POSTS = [
   {
     id: "hyd-cafe-hopping",
-    title: "11 best cafes in Hydera",
+    title: "11 best cafes in Hyderabad",
     location: "Hyderabad, Telangana, India",
     cover: "images/cafes/1.png",
     date: "2026-10-27",
