@@ -27,8 +27,8 @@ const POSTS = [
     title: "11 best cafes in Hyderabad",
     location: "Hyderabad, Telangana, India",
     cover: "/images/cafes/1.png",
-    date: "2026-09-14",
-    updated: "2026-09-20",
+    date: "2026-10-27",
+    updated: "2026-10-27",
     gallery: [
       "https://picsum.photos/id/1011/1400/1000",
       "https://picsum.photos/id/1015/1400/1000",
@@ -86,23 +86,7 @@ const POSTS = [
       <p>It was cold, we were tired, and it was completely worth it.</p>
     `
   },
-  {
-    id: "city-cafe-hopping",
-    title: "Café hopping around the city",
-    location: "Pune, India",
-    cover: "https://picsum.photos/id/1060/800/1000",
-    date: "2026-07-10",
-    updated: "2026-07-18",
-    gallery: [
-      "https://picsum.photos/id/1060/1400/1000",
-      "https://picsum.photos/id/1080/1400/1000",
-      "https://picsum.photos/id/225/1400/1000"
-    ],
-    content: `
-      <p>One Sunday, five cafés, and a strict rule: we had to order something we had never tried before.</p>
-      <p>Our favourite was the tiny place with the cardamom cold brew.</p>
-    `
-  },
+
   {
     id: "monsoon-drive",
     title: "Our first monsoon road trip",
