@@ -651,7 +651,7 @@ const POSTS = [
     title: "A slow walk through the old town",
     location: "Tuljapur, Maharashtra, India",
     cover: "images/tuljapur/1.png",
-    date: "2026-10-3",
+    date: "2026-10-03",
     updated: "2026-04-12",
     gallery: [
       "images/tuljapur/1.png",
@@ -668,7 +668,7 @@ const POSTS = [
     title: "Jejuri Khandoba Temple: The Golden Temple of Maharashtra",
     location: "Jejuri, Maharashtra, India",
     cover: "images/jejuri/1.png",
-    date: "2026-10-4",
+    date: "2026-10-04",
     updated: "2026-06-22",
     gallery: [
       "images/jejuri/1.png",
