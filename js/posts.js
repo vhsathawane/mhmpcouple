@@ -672,7 +672,7 @@ const POSTS = [
     updated: "2026-06-22",
     gallery: [
       "images/jejuri/1.png",
-      "https://picsum.photos/id/1068/1400/1000",
+      "images/jejuri/2.png",
       "https://picsum.photos/id/1069/1400/1000"
     ],
     content: `
