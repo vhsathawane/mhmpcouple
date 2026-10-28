@@ -647,14 +647,14 @@ const POSTS = [
     `
   },
   {
-    id: "old-town-walk",
+    id: "Tuljapur",
     title: "A slow walk through the old town",
-    location: "Jaipur, India",
-    cover: "https://picsum.photos/id/1031/800/1000",
-    date: "2026-04-12",
+    location: "Tuljapur, Maharashtra, India",
+    cover: "images/tuljapur/1.png",
+    date: "2026-10-3",
     updated: "2026-04-12",
     gallery: [
-      "https://picsum.photos/id/1031/1400/1000",
+      "images/tuljapur/1.png",
       "https://picsum.photos/id/1033/1400/1000",
       "https://picsum.photos/id/1040/1400/1000"
     ],
