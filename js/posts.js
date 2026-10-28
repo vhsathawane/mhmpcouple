@@ -648,7 +648,7 @@ const POSTS = [
   },
   {
     id: "Tuljapur",
-    title: "A slow walk through the old town",
+    title: "Divine Moments at Tulja Bhavani Temple",
     location: "Tuljapur, Maharashtra, India",
     cover: "images/tuljapur/1.png",
     date: "2026-10-03",
