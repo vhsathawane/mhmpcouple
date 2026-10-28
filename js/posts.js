@@ -696,14 +696,14 @@ const POSTS = [
     `
   },
   {
-    id: "old-town-walk",
-    title: "A slow walk through the old town",
-    location: "Jaipur, India",
-    cover: "https://picsum.photos/id/1031/800/1000",
-    date: "2026-04-12",
+    id: "hampi",
+    title: "Hampi: A slow walk through the old town",
+    location: "Hampi, Karnataka, India",
+    cover: "images/hampi/1.png",
+    date: "2022-07-12",
     updated: "2026-04-12",
     gallery: [
-      "https://picsum.photos/id/1031/1400/1000",
+      "images/hampi/1.png",
       "https://picsum.photos/id/1033/1400/1000",
       "https://picsum.photos/id/1040/1400/1000"
     ],
