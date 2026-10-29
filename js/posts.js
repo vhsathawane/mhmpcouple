@@ -695,6 +695,54 @@ const POSTS = [
       <p>A quiet dinner by the sea to celebrate another year together.</p>
     `
   },
+   {
+    id: "Charminar",
+    title: "Charminar: A Timeless Beauty of Hyderabad.",
+    location: "Telangana, Hyderabad, India",
+    cover: "images/charminar/1.png",
+    date: "2026-06-21",
+    updated: "2026-06-21",
+    gallery: [
+      "images/charminar/1.png",
+      "https://picsum.photos/id/1027/1400/1000",
+      "https://picsum.photos/id/1029/1400/1000"
+    ],
+    content: `
+      <p>A quiet dinner by the sea to celebrate another year together.</p>
+    `
+  },
+    {
+    id: "Goa",
+    title: "Exploring Goa Together | Our Unforgettable Travel Story",
+    location: "Goa, India",
+    cover: "images/goa/1.png",
+    date: "2021-10-21",
+    updated: "2026-06-21",
+    gallery: [
+      "images/goa/1.png",
+      "https://picsum.photos/id/1027/1400/1000",
+      "https://picsum.photos/id/1029/1400/1000"
+    ],
+    content: `
+      <p>A quiet dinner by the sea to celebrate another year together.</p>
+    `
+  },
+  {
+    id: "Kanha National Park",
+    title: "Kanha Diaries 🌿 | Our Jungle Safari Experience",
+    location: "Madhyapradesh, India",
+    cover: "images/kanha/1.png",
+    date: "2021-10-21",
+    updated: "2026-06-21",
+    gallery: [
+      "images/kanha/1.png",
+      "https://picsum.photos/id/1027/1400/1000",
+      "https://picsum.photos/id/1029/1400/1000"
+    ],
+    content: `
+      <p>A quiet dinner by the sea to celebrate another year together.</p>
+    `
+  },
   {
     id: "hampi",
     title: "Hampi: A slow walk through the old town",
