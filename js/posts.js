@@ -197,6 +197,11 @@ const POSTS = [
       "images/vietnam/2.JPG",
       "images/vietnam/3.png",
       "images/vietnam/4.png",
+      "images/vietnam/5.png",
+      "images/vietnam/6.JPG",
+      "images/vietnam/7.png",
+      "images/vietnam/8.png",
+      "images/vietnam/9.png",
     ],
     content: `
       <p>We woke up at 4 a.m., wrapped ourselves in every jacket we had, and hiked up to the viewpoint.</p>
