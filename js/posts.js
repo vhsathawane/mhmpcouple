@@ -202,7 +202,9 @@ const POSTS = [
       "images/vietnam/7.png",
       "images/vietnam/8.png",
       "images/vietnam/9.png",
-      "images/vietnam/10.png"
+      "images/vietnam/10.png",
+      "images/vietnam/11.png",
+      "images/vietnam/12.png"
     ],
     content: `
       <p>We woke up at 4 a.m., wrapped ourselves in every jacket we had, and hiked up to the viewpoint.</p>
@@ -759,7 +761,8 @@ const POSTS = [
       "images/hampi/1.png",
       "images/hampi/2.png",
       "images/hampi/3.png",
-      "images/hampi/4.png"
+      "images/hampi/4.png",
+      "images/hampi/5.JPG"
     ],
     content: `
       <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
@@ -793,6 +796,7 @@ const POSTS = [
     gallery: [
       "images/thailand/1.png",
       "images/thailand/2.png",
+      "images/thailand/3.png",
       
     ],
     content: `
@@ -808,7 +812,7 @@ const POSTS = [
     updated: "2026-04-12",
     gallery: [
       "images/statueofunity/1.png",
-      "images/hampi/2.png",
+      "images/statueofunity/2.png",
       "images/hampi/3.png",
       "images/hampi/4.png"
     ],
@@ -860,6 +864,38 @@ const POSTS = [
       "images/jagdalpur/2.png",
       "images/hampi/3.png",
       "images/hampi/4.png"
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Shegaon",
+    title: "Shegaon Diaries: A Spiritual Journey to Anand Sagar & Gajanan Maharaj",
+    location: "Maharashtra, India",
+    cover: "images/shegaon/1.png",
+    date: "2022-01-01",
+    updated: "2026-04-12",
+    gallery: [
+      "images/shegaon/1.png",
+      "images/shegaon/2.png",
+      
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Ramoji Film City",
+    title: "Exploring Ramoji Film City: A Magical World of Movies & Memories",
+    location: "Hyderabad, Telangana, India",
+    cover: "images/ramoji/1.png",
+    date: "2025-10-02",
+    updated: "2026-04-12",
+    gallery: [
+      "images/ramoji/1.png",
+      "images/shegaon/2.png",
+      
     ],
     content: `
       <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
