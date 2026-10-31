@@ -202,6 +202,7 @@ const POSTS = [
       "images/vietnam/7.png",
       "images/vietnam/8.png",
       "images/vietnam/9.png",
+      "images/vietnam/10.png"
     ],
     content: `
       <p>We woke up at 4 a.m., wrapped ourselves in every jacket we had, and hiked up to the viewpoint.</p>
@@ -741,8 +742,7 @@ const POSTS = [
     updated: "2026-06-21",
     gallery: [
       "images/kanha/1.png",
-      "https://picsum.photos/id/1027/1400/1000",
-      "https://picsum.photos/id/1029/1400/1000"
+      "images/kanha/2.png"
     ],
     content: `
       <p>A quiet dinner by the sea to celebrate another year together.</p>
@@ -757,8 +757,9 @@ const POSTS = [
     updated: "2026-04-12",
     gallery: [
       "images/hampi/1.png",
-      "https://picsum.photos/id/1033/1400/1000",
-      "https://picsum.photos/id/1040/1400/1000"
+      "images/hampi/2.png",
+      "images/hampi/3.png",
+      "images/hampi/4.png"
     ],
     content: `
       <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
