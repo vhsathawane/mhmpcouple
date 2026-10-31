@@ -765,4 +765,105 @@ const POSTS = [
       <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
     `
   }
+  ,
+  {
+    id: "Somnath",
+    title: "A Somnath Diaries – Where Faith Meets the Endless Sea 🌊🙏",
+    location: "Gujrat, India",
+    cover: "images/somnath/1.png",
+    date: "2024-05-12",
+    updated: "2026-04-12",
+    gallery: [
+      "images/somnath/1.png",
+      "images/hampi/2.png",
+      "images/hampi/3.png",
+      "images/hampi/4.png"
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Thailand",
+    title: "Thailand Uncovered - Beaches, Islands & Unforgettable Memories",
+    location: "Thailand",
+    cover: "images/thailand/1.png",
+    date: "2023-08-12",
+    updated: "2026-04-12",
+    gallery: [
+      "images/thailand/1.png",
+      "images/thailand/2.png",
+      
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Statue of Unity",
+    title: "A Journey to the World's Tallest Statue",
+    location: "Gujrat, India",
+    cover: "images/statueofunity/1.png",
+    date: "2024-05-12",
+    updated: "2026-04-12",
+    gallery: [
+      "images/statueofunity/1.png",
+      "images/hampi/2.png",
+      "images/hampi/3.png",
+      "images/hampi/4.png"
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Ujjain",
+    title: "Ujjain Diaries – A Spiritual Journey to the City of Mahakal 🙏",
+    location: "Madhya Pradesh, India",
+    cover: "images/ujjain/1.png",
+    date: "2024-05-12",
+    updated: "2026-04-12",
+    gallery: [
+      "images/ujjain/1.png",
+      "images/hampi/2.png",
+      "images/hampi/3.png",
+      "images/hampi/4.png"
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Ramtek",
+    title: "Ramtek Diaries – Exploring Ancient Temples, History & Heritage Near Nagpur",
+    location: "Gujrat, India",
+    cover: "images/ramtek/1.png",
+    date: "2023-03-12",
+    updated: "2026-04-12",
+    gallery: [
+      "images/ramtek/1.png",
+      
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Jagdalpur",
+    title: "Discovering Jagdalpur – Waterfalls, Nature & Hidden Gems of Chhattisgarh",
+    location: "Chattisgarh, India",
+    cover: "images/jagdalpur/1.png",
+    date: "2024-07-01",
+    updated: "2026-04-12",
+    gallery: [
+      "images/jagdalpur/1.png",
+      "images/jagdalpur/2.png",
+      "images/hampi/3.png",
+      "images/hampi/4.png"
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  }
+
 ];
