@@ -942,7 +942,23 @@ const POSTS = [
     updated: "2026-04-12",
     gallery: [
       "images/trambakeshwar/1.png",
-      "images/shegaon/2.png",
+      
+      
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Pachmarhi",
+    title: "Pachmarhi: The Land of Lord Shiva",
+    location: "Madhyapradesh, India",
+    cover: "images/pachmarhi/1.png",
+    date: "2026-07-02",
+    updated: "2026-04-12",
+    gallery: [
+      "images/pachmarhi/1.png",
+      
       
     ],
     content: `
