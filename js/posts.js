@@ -900,6 +900,57 @@ const POSTS = [
     content: `
       <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
     `
+  },
+  {
+    id: "Mahur Gad",
+    title: "Mahur Gad: A Spiritual Journey Through Maharashtra",
+    location: "Nanded, Maharashtra, India",
+    cover: "images/mahur/1.png",
+    date: "2026-09-07",
+    updated: "2026-04-12",
+    gallery: [
+      "images/mahur/1.png",
+      "images/shegaon/2.png",
+      
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Mysore",
+    title: "Mysore Diaries: Exploring the Royal City of Karnataka",
+    location: "Karnataka, India",
+    cover: "images/mysore/1.png",
+    date: "2025-02-02",
+    updated: "2026-04-12",
+    gallery: [
+      "images/mysore/1.png",
+      "images/shegaon/2.png",
+      
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
+  },
+  {
+    id: "Trimbakeshwar",
+    title: "Trimbakeshwar: Seeking Blessings in the Land of Lord Shiva",
+    location: "Nashik, Maharashtra, India",
+    cover: "images/trambakeshwar/1.png",
+    date: "2024-07-02",
+    updated: "2026-04-12",
+    gallery: [
+      "images/trambakeshwar/1.png",
+      "images/shegaon/2.png",
+      
+    ],
+    content: `
+      <p>Pink walls, busy markets, and the best lassi we have had so far.</p>
+    `
   }
+
+
+
 
 ];
