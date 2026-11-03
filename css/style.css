@@ -174,7 +174,7 @@ a { color: var(--accent); }
    POST PAGE
    ============================================================ */
 .post {
-  max-width: 980px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 1rem 1.25rem 4rem;
 }
@@ -259,7 +259,7 @@ a { color: var(--accent); }
 
 /* ---------- Story text ---------- */
 .post-content {
-  max-width: 40rem;
+  max-width: 60rem;
   margin: 0 auto;
   font-size: 1.125rem;
   line-height: 1.75;
@@ -282,7 +282,7 @@ a { color: var(--accent); }
 
 /* ---------- Previous / next ---------- */
 .post-nav {
-  max-width: 40rem;
+  max-width: 60rem;
   margin: 3.5rem auto 0;
   padding-top: 1.5rem;
   border-top: 1px solid var(--line);
@@ -359,3 +359,62 @@ a { color: var(--accent); }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }
+<style>
+.pachmarhi-guide {
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.8;
+  max-width: 100%;
+}
+.pachmarhi-guide h2 {
+  color: #11e28e;
+  margin-top: 35px;
+  border-bottom: 2px solid #e5eee8;
+  padding-bottom: 8px;
+}
+.pachmarhi-guide h3 { color: #11e28e; }
+.pachmarhi-guide p { margin-bottom: 15px; }
+.pachmarhi-guide figure { margin: 22px 0; }
+.pachmarhi-guide img {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+.pachmarhi-guide figcaption {
+  font-size: 13px;
+  color: #777;
+  text-align: center;
+  margin-top: 7px;
+}
+.pachmarhi-guide .travel-info {
+  background: #020202;
+  padding: 16px 20px;
+  border-radius: 10px;
+  margin: 18px 0;
+}
+.pachmarhi-guide .budget-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 18px 0;
+}
+.pachmarhi-guide .budget-table th,
+.pachmarhi-guide .budget-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+.pachmarhi-guide .budget-table th {
+  background: #eaf2ec;
+  color: #245b45;
+}
+.pachmarhi-guide .tip {
+  background: #fff8e8;
+  padding: 15px;
+  border-left: 4px solid #d7a746;
+  margin: 20px 0;
+  border-radius: 5px;
+}
+.pachmarhi-guide a { color: #28764e; }
