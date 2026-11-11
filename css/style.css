@@ -360,22 +360,22 @@ a { color: var(--accent); }
   * { transition: none !important; }
 }
 <style>
-.pachmarhi-guide {
+.place-guide {
   font-family: Arial, sans-serif;
   color: #333;
   line-height: 1.8;
   max-width: 100%;
 }
-.pachmarhi-guide h2 {
+.place-guide h2 {
   color: #11e28e;
   margin-top: 35px;
   border-bottom: 2px solid #e5eee8;
   padding-bottom: 8px;
 }
-.pachmarhi-guide h3 { color: #11e28e; }
-.pachmarhi-guide p { margin-bottom: 15px; }
-.pachmarhi-guide figure { margin: 22px 0; }
-.pachmarhi-guide img {
+.place-guide h3 { color: #11e28e; }
+.place-guide p { margin-bottom: 15px; }
+.place-guide figure { margin: 22px 0; }
+.place-guide img {
   width: 100%;
   height: auto;
   max-height: 480px;
@@ -383,38 +383,99 @@ a { color: var(--accent); }
   border-radius: 12px;
   display: block;
 }
-.pachmarhi-guide figcaption {
+.place-guide figcaption {
   font-size: 13px;
   color: #777;
   text-align: center;
   margin-top: 7px;
 }
-.pachmarhi-guide .travel-info {
+.place-guide .travel-info {
   background: #020202;
   padding: 16px 20px;
   border-radius: 10px;
   margin: 18px 0;
 }
-.pachmarhi-guide .budget-table {
+.place-guide .budget-table {
   width: 100%;
   border-collapse: collapse;
   margin: 18px 0;
 }
-.pachmarhi-guide .budget-table th,
-.pachmarhi-guide .budget-table td {
+.place-guide .budget-table th,
+.place-guide .budget-table td {
   border: 1px solid #ddd;
   padding: 10px;
   text-align: left;
 }
-.pachmarhi-guide .budget-table th {
+.place-guide .budget-table th {
   background: #eaf2ec;
   color: #245b45;
 }
-.pachmarhi-guide .tip {
+.place-guide .tip {
+  background: #070707;
+  padding: 15px;
+  border-left: 4px solid #d7a746;
+  margin: 20px 0;
+  border-radius: 5px;
+}
+.place-guide a { color: #28764e; }
+</style>
+<style>
+.mahur-guide {
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.8;
+  max-width: 100%;
+}
+.mahur-guide h2 {
+  color: #11e28e;
+  margin-top: 35px;
+  border-bottom: 2px solid #e5eee8;
+  padding-bottom: 8px;
+}
+.mahur-guide h3 { color: #11e28e;}
+.mahur-guide p { margin-bottom: 15px; }
+.mahur-guide figure { margin: 22px 0; }
+.mahur-guide img {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+.mahur-guide figcaption {
+  font-size: 13px;
+  color: #777;
+  text-align: center;
+  margin-top: 7px;
+}
+.mahur-guide .travel-info {
+  background: #020202;
+  padding: 16px 20px;
+  border-radius: 10px;
+  margin: 18px 0;
+}
+.mahur-guide .budget-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 18px 0;
+}
+.mahur-guide .budget-table th,
+.mahur-guide .budget-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+.mahur-guide .budget-table th {
+  background: #eaf2ec;
+  color: #245b45;
+}
+.mahur-guide .tip {
   background: #fff8e8;
   padding: 15px;
   border-left: 4px solid #d7a746;
   margin: 20px 0;
   border-radius: 5px;
 }
-.pachmarhi-guide a { color: #28764e; }
+.mahur-guide a { color: #28764e; }
+</style>
